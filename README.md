@@ -155,8 +155,8 @@ Testing          ████████░░  Advanced    1000+ tests
 [![YouTube](https://img.shields.io/badge/-FACEBOOK-1d85fc?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/@rayhanuddinmobin)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://mobin.dev)
 
-📧 **Email:** alex@chen.dev  
-📍 **Location:** San Francisco Bay Area
+📧 **Email:** sdm241405@gmail.com  
+📍 **Location:** Narayangonj, Dhaka, Bangladesh
 
 ---
 
