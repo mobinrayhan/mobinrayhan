@@ -189,7 +189,7 @@ Cross-platform healthcare app with React Native + Expo, REST APIs, and CI/CD—p
 ### 🛍️ Royal Blue E-commerce Platform
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/royal-blue%20copy.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/royal-blue.webp">
   <img src="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/royal-blue.webp" alt="Royal Blue e-commerce screenshot showing storefront">
 </picture>
 
