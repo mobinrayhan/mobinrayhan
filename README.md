@@ -190,7 +190,7 @@ Cross-platform healthcare app with React Native + Expo, REST APIs, and CI/CD—p
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/royal-blue%20copy.webp">
-  <img src="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/royal-blue%20copy.webp" alt="Royal Blue e-commerce screenshot showing storefront">
+  <img src="https://raw.githubusercontent.com/mobinrayhan/mobinrayhan/refs/heads/main/royal-blue.webp" alt="Royal Blue e-commerce screenshot showing storefront">
 </picture>
 
 Full-stack e-commerce with Next.js, Node.js, MongoDB, secure payments (SSL Commerz), and GitHub Actions CI/CD.
